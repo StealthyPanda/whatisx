@@ -1,0 +1,8 @@
+{
+  "short_name": "Transformers",
+  "name": "Transformers and Attention: A Deep Dive",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
