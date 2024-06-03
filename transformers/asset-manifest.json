@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/whatisx/transformers/static/css/main.48f402c6.css",
-    "main.js": "/whatisx/transformers/static/js/main.99b80e87.js",
+    "main.js": "/whatisx/transformers/static/js/main.3659790f.js",
     "static/js/453.f52f2c61.chunk.js": "/whatisx/transformers/static/js/453.f52f2c61.chunk.js",
     "static/media/notosans.ttf": "/whatisx/transformers/static/media/notosans.b1d0ab70303caea663db.ttf",
     "static/media/llm.zip": "/whatisx/transformers/static/media/llm.76076130f0802caaebd8.zip",
@@ -28,11 +28,11 @@
     "static/media/clipboard.svg": "/whatisx/transformers/static/media/clipboard.61837f723d175778f72f642be511b6a9.svg",
     "index.html": "/whatisx/transformers/index.html",
     "main.48f402c6.css.map": "/whatisx/transformers/static/css/main.48f402c6.css.map",
-    "main.99b80e87.js.map": "/whatisx/transformers/static/js/main.99b80e87.js.map",
+    "main.3659790f.js.map": "/whatisx/transformers/static/js/main.3659790f.js.map",
     "453.f52f2c61.chunk.js.map": "/whatisx/transformers/static/js/453.f52f2c61.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.48f402c6.css",
-    "static/js/main.99b80e87.js"
+    "static/js/main.3659790f.js"
   ]
 }
