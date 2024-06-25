@@ -1,0 +1,8 @@
+{
+  "short_name": "Stable Diffusion",
+  "name": "Creating a diffusion model from scratch",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

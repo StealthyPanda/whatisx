@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/whatisx/stablediffusion/static/css/main.2ba2cd77.css",
+    "main.js": "/whatisx/stablediffusion/static/js/main.fea97b77.js",
+    "static/js/453.79df87e8.chunk.js": "/whatisx/stablediffusion/static/js/453.79df87e8.chunk.js",
+    "static/media/notosans.ttf": "/whatisx/stablediffusion/static/media/notosans.b1d0ab70303caea663db.ttf",
+    "static/media/stabdiffgen.png": "/whatisx/stablediffusion/static/media/stabdiffgen.3dd7721ac0e89e0a9e71.png",
+    "static/media/gen3.png": "/whatisx/stablediffusion/static/media/gen3.29c243d80ffa0f8acaf8.png",
+    "static/media/gen1.png": "/whatisx/stablediffusion/static/media/gen1.96842086d6d01aa141d8.png",
+    "static/media/gen2.png": "/whatisx/stablediffusion/static/media/gen2.bab4f53a23988ec72b4c.png",
+    "static/media/FiraCode-VariableFont_wght.ttf": "/whatisx/stablediffusion/static/media/FiraCode-VariableFont_wght.195a5963e89a1ff0cf03.ttf",
+    "static/media/d4.jpg": "/whatisx/stablediffusion/static/media/d4.7a52659570c04b8dc02b.jpg",
+    "static/media/threed.png": "/whatisx/stablediffusion/static/media/threed.c7a288a5161682b905d5.png",
+    "static/media/unet.png": "/whatisx/stablediffusion/static/media/unet.34ffa79d483bd028f201.png",
+    "static/media/d5.jpg": "/whatisx/stablediffusion/static/media/d5.1b687d4a27ddfa925d2d.jpg",
+    "static/media/d2.jpg": "/whatisx/stablediffusion/static/media/d2.be824fbde32f67ab9b94.jpg",
+    "static/media/d7.jpg": "/whatisx/stablediffusion/static/media/d7.550c7cc6042ce4db1014.jpg",
+    "static/media/d3.jpg": "/whatisx/stablediffusion/static/media/d3.ffe5b3bfa509674b7193.jpg",
+    "static/media/d1.jpg": "/whatisx/stablediffusion/static/media/d1.4ad5625072e53c47ced9.jpg",
+    "static/media/Lato-Regular.ttf": "/whatisx/stablediffusion/static/media/Lato-Regular.9d883d540ee2b4de8024.ttf",
+    "static/media/d6.png": "/whatisx/stablediffusion/static/media/d6.3168c1b6375198a9099b.png",
+    "static/media/posenc.png": "/whatisx/stablediffusion/static/media/posenc.fd25a75d5363a7167229.png",
+    "static/media/sun.svg": "/whatisx/stablediffusion/static/media/sun.972d711391f268162bc23ee98b70887a.svg",
+    "static/media/moon.svg": "/whatisx/stablediffusion/static/media/moon.8a614d8ed6bd54e2bd591bad58e34b3a.svg",
+    "index.html": "/whatisx/stablediffusion/index.html",
+    "main.2ba2cd77.css.map": "/whatisx/stablediffusion/static/css/main.2ba2cd77.css.map",
+    "main.fea97b77.js.map": "/whatisx/stablediffusion/static/js/main.fea97b77.js.map",
+    "453.79df87e8.chunk.js.map": "/whatisx/stablediffusion/static/js/453.79df87e8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ba2cd77.css",
+    "static/js/main.fea97b77.js"
+  ]
+}
