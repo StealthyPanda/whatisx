@@ -1,6 +1,6 @@
 # What is ___ ?
 
-A series of deep dives into ML and DL topics, with theory and code.
+A series of deep dives into ML and DL topics, with theory and code. These deep dives usually form code from scratch on respective topics.
 <br>
 <br>
 
